@@ -1,0 +1,16 @@
+.form__caption {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #ffffff;
+  margin: 15px 0 0;
+}
+
+@media screen and (max-width: 767px) {
+  .form__caption {
+    margin-top: 20px;
+  }
+}

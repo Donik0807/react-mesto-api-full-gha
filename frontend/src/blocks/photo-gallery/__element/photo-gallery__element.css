@@ -1,0 +1,7 @@
+.photo-gallery__element {
+  margin: 0;
+  background: #ffffff;
+  border-radius: 10px;
+  position: relative;
+  z-index: 0;
+}

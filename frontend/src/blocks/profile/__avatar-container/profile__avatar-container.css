@@ -1,0 +1,13 @@
+.profile__avatar-container {
+  display: inline-block;
+  margin-right: 30px;
+  position: relative;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 767px) {
+  .profile__avatar-container {
+    display: block;
+    margin: 0 auto 26px;
+  }
+}

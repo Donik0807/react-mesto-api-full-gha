@@ -1,0 +1,12 @@
+.popup__register-status {
+  display: block;
+  width: 120px;
+  margin: 24px auto 32px;
+}
+
+@media screen and (max-width: 767px) {
+  .popup__register-status {
+    margin: 31px auto 36px;
+  }
+}
+

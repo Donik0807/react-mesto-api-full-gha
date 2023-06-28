@@ -1,0 +1,13 @@
+.photo-gallery__like-count {
+  display: block;
+  width: 10px;
+  height: 13px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  color: #000000;
+  margin: 0 auto;
+}

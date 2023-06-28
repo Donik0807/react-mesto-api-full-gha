@@ -1,0 +1,3 @@
+.button-animation {
+  transition: opacity 0.3s linear 0.1s;
+}
